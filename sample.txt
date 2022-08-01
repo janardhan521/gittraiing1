@@ -1,1 +1,2 @@
 testing simpple with new branch
+testing git reset first commit
