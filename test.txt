@@ -3,3 +3,6 @@ xdsfsd
 fdfds
 
 asfa
+
+
+testing second phase commit with reset option
